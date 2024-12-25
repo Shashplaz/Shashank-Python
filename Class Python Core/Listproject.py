@@ -1,0 +1,10 @@
+List = ["tomato", "onion", "masala", "eggplant"]
+print(List)
+List.insert(2, "Aachi")
+print(List)
+List.append("beans")
+print(List)
+List.remove("tomato")
+print(List)
+List.pop(3)
+print(List)
